@@ -1,0 +1,27 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "eggjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-5/nodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-5/nodeProject/issues"
+  },
+  "homepage": "https://github.com/L-5/nodeProject#readme",
+  "dependencies": {
+    "egg": "^2.11.2",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.9.0"
+  }
+}
